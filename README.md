@@ -7,8 +7,8 @@
 
 ## Autores
 
-* Jordi Martínez Joyeux
-* Héctor Martínez Hidalgo
+* Jordi Martínez Joyeux (usuario GitHub: Plod175)
+* Héctor Martínez Hidalgo (usuario GitHub: hectormh88)
 
 ## Archivos
 

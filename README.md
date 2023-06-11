@@ -2,15 +2,13 @@
 
 ## Análisis estadístico de variables que influyen en paros cardiacos
 
-* Este software es parte de la Práctica 2 de la asignatura: "Tipologia y ciclo de vida de los datos".
-* Asignatura: Tipologia y ciclo de vida de los datos (Master de Ciencia de Datos, UOC)
+* Práctica 2 de la asignatura "Tipologia y ciclo de vida de los datos" (Master de Ciencia de Datos, UOC)
 * Profesor colaborador: Diego Pérez
 
 ## Autores
 
 * Jordi Martínez Joyeux
 * Héctor Martínez Hidalgo
-
 
 ## Archivos
 
